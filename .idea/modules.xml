@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/EJERCICIOS.iml" filepath="$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/EJERCICIOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Ejercicios.iml" filepath="$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Ejercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO PROGRAMACION/INTRO PROGRAMACION.iml" filepath="$PROJECT_DIR$/INTRO PROGRAMACION/INTRO PROGRAMACION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICO/JAVA BASICO.iml" filepath="$PROJECT_DIR$/JAVA BASICO/JAVA BASICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OPEN BOOTCAMP.iml" filepath="$PROJECT_DIR$/.idea/OPEN BOOTCAMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA1/TEMA1.iml" filepath="$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA1/TEMA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA2/TEMA2.iml" filepath="$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA2/TEMA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA3/TEMA3.iml" filepath="$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA3/TEMA3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA4/TEMA4.iml" filepath="$PROJECT_DIR$/JAVA BASICO/EJERCICIOS/TEMA4/TEMA4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema3/Tema3.iml" filepath="$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema3/Tema3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema4/Tema4.iml" filepath="$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema4/Tema4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema8/Tema8.iml" filepath="$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema8/Tema8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema9/Tema9.iml" filepath="$PROJECT_DIR$/INTRO PROGRAMACION/Ejercicios/Tema9/Tema9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CURSO INTRO A LA PROGRAMACIÓN/excercises/exercises.iml" filepath="$PROJECT_DIR$/CURSO INTRO A LA PROGRAMACIÓN/excercises/exercises.iml" />
+    </modules>
+  </component>
+</project>
